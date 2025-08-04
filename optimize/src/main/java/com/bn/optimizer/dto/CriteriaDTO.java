@@ -1,8 +1,5 @@
 package com.bn.optimizer.dto;
 
-import com.bn.optimizer.model.Driver;
-import com.bn.optimizer.model.Order;
-import com.bn.optimizer.model.Vehicle;
 
 import java.util.Map;
 
