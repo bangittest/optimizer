@@ -1,13 +1,13 @@
-package com.bn.milk;
+package com.bn.optimizer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MilkApplication {
+public class OptimizeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MilkApplication.class, args);
+        SpringApplication.run(OptimizeApplication.class, args);
     }
 
 }
