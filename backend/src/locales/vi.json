@@ -1,0 +1,12 @@
+{
+  "upload": {
+    "success": "Tải tệp thành công.",
+    "invalid_type": "Chỉ chấp nhận các định dạng .jpeg, .jpg, và .png.",
+    "no_file": "Không có tệp nào được tải lên."
+  },
+  
+  "customer": {
+    "list_success": "Lấy danh sách khách hàng thành công",
+    "list_failed": "Không thể lấy danh sách khách hàng"
+  }
+}

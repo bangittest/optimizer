@@ -1,0 +1,11 @@
+{
+	"upload": {
+		"success": "File uploaded successfully.",
+		"invalid_type": "Only .jpeg, .jpg, and .png formats are allowed.",
+		"no_file": "No file uploaded."
+	},
+	"customer": {
+		"list_success": "customer.list_success",
+		"list_failed": "customer.list_failed"
+	}
+}
